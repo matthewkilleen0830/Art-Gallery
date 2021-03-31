@@ -1,11 +1,11 @@
-# Bear Grylls Wildlife Art Gallery
+# Marty Stouffer Wildlife Art Gallery
 
-![bear_picture.jpg](bear_picture.jpg)
+![bear_picture.jpg](marty_stouffer.jpg)
 
-#### Data Modeling
+### Data Modeling
 
 Inspect the CSVs and merge on common identifer values.
 
-#### Data Analysis
+### Data Analysis
 
 (to be continued)...
