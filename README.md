@@ -16,7 +16,7 @@ Key Points:
 
 ### Gross Sales Revenues by Geographic Area (Q1 2021)
 
-![Images/artGallery_heatmap.jpg](Images/artGallery_heatmap.jpg)
+![Images/Art_Gallery_Heatmap.jpg](Images/Art_Gallery_Heatmap.jpg)
 
 ### Quartiles, Outliers, and Boxplots (Q1 2021)
 
